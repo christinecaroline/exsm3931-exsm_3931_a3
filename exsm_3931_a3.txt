@@ -13,6 +13,7 @@ ENDIF
 
 
 #pseudocode of owner
-unlock with key
-restock
-empty coin storage
+INPUT: unlock with key
+INPUT: check snacks
+SET: restock snacks
+GET: empty coin storage
