@@ -1,1 +1,18 @@
 #pseudocode of hungry customer
+INPUT: coins into machine
+INPUT: enter code
+IF code is valid THEN
+dispence snack
+ELSE
+    give error
+ENDIF
+IF snack is given THEN
+give change
+IF no change THEN
+ENDIF
+
+
+#pseudocode of owner
+unlock with key
+restock
+empty coin storage
